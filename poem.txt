@@ -1,2 +1,2 @@
-early to bed
-and early to rise
+early to bed,
+ early to rise
